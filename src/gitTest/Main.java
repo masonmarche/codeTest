@@ -6,6 +6,8 @@ public class Main {
 
 	public static void main (String [] args) {
 		System.out.print("What is your name?");
-		System.out.print((new Scanner(System.in)).nextLine());
+		System.out.print((new Scanner(System.in)).nextLine())
+
+				/ this is comment
 	}
 }
